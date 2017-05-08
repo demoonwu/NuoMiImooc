@@ -31,9 +31,17 @@ return [
         'index'     => [
         //'__file__'   => ['common.php'],
         '__dir__'    => ['controller', 'view'],
-        // 'controller' => ['Index', 'Test', 'UserType'],//对应上面一行的controller
+        'controller' => ['Index',  'User'],//对应上面一行的controller
         // 'model'      => ['User', 'UserType'],
-        'view'       => ['index/index','public/nav','public/head'],
+        'view'       => ['index/index','public/nav','public/head',"user/login","user/register"],
     ],
+        'admin'     => [
+        //'__file__'   => ['common.php'],
+        '__dir__'    => ['controller', 'view'],
+        'controller' => ['Index'],//对应上面一行的controller
+        // 'model'      => ['User', 'UserType'],
+        'view'       => ['index/index','public/menu','public/header','public/footer'],
+    ],
+
     // 其他更多的模块定义
 ];
