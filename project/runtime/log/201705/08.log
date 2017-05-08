@@ -1,0 +1,1910 @@
+---------------------------------------------------------------
+[ 2017-05-08T10:31:21+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/index.php?s=index
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=index [运行时间：0.036002s][吞吐率：27.78req/s] [内存消耗：1,347.80kb] [文件加载：37]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\public/../application/index\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:31:27+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin [运行时间：0.022001s][吞吐率：45.45req/s] [内存消耗：984.84kb] [文件加载：30]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:32:08+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/admin.php?s=index
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/admin.php?s=index [运行时间：0.032002s][吞吐率：31.25req/s] [内存消耗：1,348.46kb] [文件加载：37]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\public/../application/index\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:32:23+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/index.php?s=index
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=index [运行时间：0.037002s][吞吐率：27.03req/s] [内存消耗：1,347.80kb] [文件加载：37]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\public/../application/index\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:32:27+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/index.php?s=user
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=user [运行时间：0.025001s][吞吐率：40.00req/s] [内存消耗：1,017.16kb] [文件加载：30]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'user',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:32:40+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/index.php?s=index/user/login
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=index/user/login [运行时间：0.030002s][吞吐率：33.33req/s] [内存消耗：1,264.45kb] [文件加载：37]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'user',
+    2 => 'login',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\User->login[ D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\application\index\controller\User.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\public/../application/index\view\user\login.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:33:31+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/admin.php?s=index
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/admin.php?s=index [运行时间：0.030002s][吞吐率：33.33req/s] [内存消耗：1,348.46kb] [文件加载：37]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\public/../application/index\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:33:50+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/admin.php?s=index
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/admin.php?s=index [运行时间：0.029002s][吞吐率：34.48req/s] [内存消耗：1,348.84kb] [文件加载：37]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\public/../application/index\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:33:53+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/admin.php
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/admin.php [运行时间：0.020001s][吞吐率：50.00req/s] [内存消耗：1,014.17kb] [文件加载：30]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin.php',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:34:08+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/admin
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/admin [运行时间：0.026001s][吞吐率：38.46req/s] [内存消耗：1,032.82kb] [文件加载：34]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [1]Call to undefined method app\admin\controller\Index::fetch()[D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\application\admin\controller\Index.php:8]
+---------------------------------------------------------------
+[ 2017-05-08T10:34:20+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/index.php?s=index
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=index [运行时间：0.036002s][吞吐率：27.78req/s] [内存消耗：1,347.80kb] [文件加载：37]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\public/../application/index\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:34:29+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/admin.php?s=index
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/admin.php?s=index [运行时间：0.027001s][吞吐率：37.04req/s] [内存消耗：1,348.46kb] [文件加载：37]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\public/../application/index\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:34:37+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/admin.php?s=admin
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/admin.php?s=admin [运行时间：0.025001s][吞吐率：40.00req/s] [内存消耗：1,036.61kb] [文件加载：34]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [1]Call to undefined method app\admin\controller\Index::fetch()[D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\application\admin\controller\Index.php:8]
+---------------------------------------------------------------
+[ 2017-05-08T10:35:41+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/admin.php?s=admin
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/admin.php?s=admin [运行时间：0.024002s][吞吐率：41.66req/s] [内存消耗：1,036.85kb] [文件加载：34]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [1]Call to undefined method app\admin\controller\Index::fetch()[D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\application\admin\controller\Index.php:8]
+---------------------------------------------------------------
+[ 2017-05-08T10:35:57+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin [运行时间：0.029002s][吞吐率：34.48req/s] [内存消耗：1,035.92kb] [文件加载：34]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [1]Call to undefined method app\admin\controller\Index::fetch()[D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\application\admin\controller\Index.php:8]
+---------------------------------------------------------------
+[ 2017-05-08T10:36:05+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin [运行时间：0.026001s][吞吐率：38.46req/s] [内存消耗：1,036.11kb] [文件加载：34]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [1]Call to undefined method app\admin\controller\Index::fetch()[D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\application\admin\controller\Index.php:8]
+---------------------------------------------------------------
+[ 2017-05-08T10:36:56+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin [运行时间：0.036002s][吞吐率：27.78req/s] [内存消耗：1,412.09kb] [文件加载：39]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\public/../application/admin\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:36:56+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/static/h-ui/css/H-ui.min.css
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/static/h-ui/css/H-ui.min.css [运行时间：0.026002s][吞吐率：38.46req/s] [内存消耗：1,014.91kb] [文件加载：30]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'admin',
+    2 => 'hui',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'static' => 'h-ui',
+  'css' => 'H-ui.min.css',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:36:56+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/icheck/icheck.css
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/icheck/icheck.css [运行时间：0.023002s][吞吐率：43.47req/s] [内存消耗：1,014.68kb] [文件加载：30]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'admin',
+    2 => 'hui',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'lib' => 'icheck',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:36:56+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/Hui-iconfont/1.0.7/iconfont.css
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/Hui-iconfont/1.0.7/iconfont.css [运行时间：0.058003s][吞吐率：17.24req/s] [内存消耗：1,015.01kb] [文件加载：30]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'admin',
+    2 => 'hui',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'lib' => 'Hui-iconfont',
+  0 => 'iconfont.css',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:36:56+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/jquery/1.9.1/jquery.min.js
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/jquery/1.9.1/jquery.min.js [运行时间：0.030001s][吞吐率：33.33req/s] [内存消耗：1,014.83kb] [文件加载：30]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'admin',
+    2 => 'hui',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'lib' => 'jquery',
+  0 => 'jquery.min.js',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:36:56+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/layer/2.1/layer.js
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/layer/2.1/layer.js [运行时间：0.027002s][吞吐率：37.03req/s] [内存消耗：1,014.86kb] [文件加载：30]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'admin',
+    2 => 'hui',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'lib' => 'layer',
+  0 => 'layer.js',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:36:56+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/static/h-ui.admin/css/H-ui.admin.css
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/static/h-ui.admin/css/H-ui.admin.css [运行时间：0.066004s][吞吐率：15.15req/s] [内存消耗：1,015.05kb] [文件加载：30]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'admin',
+    2 => 'hui',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'static' => 'h-ui.admin',
+  'css' => 'H-ui.admin.css',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:36:56+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/static/h-ui.admin/css/style.css
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/static/h-ui.admin/css/style.css [运行时间：0.050003s][吞吐率：20.00req/s] [内存消耗：1,015.05kb] [文件加载：30]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'admin',
+    2 => 'hui',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'static' => 'h-ui.admin',
+  'css' => 'style.css',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:36:56+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/static/h-ui.admin/skin/default/skin.css
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/static/h-ui.admin/skin/default/skin.css [运行时间：0.041003s][吞吐率：24.39req/s] [内存消耗：1,015.01kb] [文件加载：30]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'admin',
+    2 => 'hui',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'static' => 'h-ui.admin',
+  'skin' => 'default',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:36:56+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/jquery.validation/1.14.0/jquery.validate.min.js
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/jquery.validation/1.14.0/jquery.validate.min.js [运行时间：0.037002s][吞吐率：27.03req/s] [内存消耗：1,015.04kb] [文件加载：30]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'admin',
+    2 => 'hui',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'lib' => 'jquery.validation',
+  0 => 'jquery.validate.min.js',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:36:56+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/My97DatePicker/WdatePicker.js
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/My97DatePicker/WdatePicker.js [运行时间：0.042002s][吞吐率：23.81req/s] [内存消耗：1,014.78kb] [文件加载：30]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'admin',
+    2 => 'hui',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'lib' => 'My97DatePicker',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:36:56+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/jquery.validation/1.14.0/validate-methods.js
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/jquery.validation/1.14.0/validate-methods.js [运行时间：0.056003s][吞吐率：17.86req/s] [内存消耗：1,015.00kb] [文件加载：30]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'admin',
+    2 => 'hui',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'lib' => 'jquery.validation',
+  0 => 'validate-methods.js',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:36:56+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/jquery.validation/1.14.0/messages_zh.min.js
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/jquery.validation/1.14.0/messages_zh.min.js [运行时间：0.050002s][吞吐率：20.00req/s] [内存消耗：1,014.98kb] [文件加载：30]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'admin',
+    2 => 'hui',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'lib' => 'jquery.validation',
+  0 => 'messages_zh.min.js',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:36:56+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/static/h-ui/js/H-ui.js
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/static/h-ui/js/H-ui.js [运行时间：0.035002s][吞吐率：28.57req/s] [内存消耗：1,014.84kb] [文件加载：30]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'admin',
+    2 => 'hui',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'static' => 'h-ui',
+  'js' => 'H-ui.js',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:36:56+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/static/h-ui.admin/js/H-ui.admin.js
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/static/h-ui.admin/js/H-ui.admin.js [运行时间：0.037002s][吞吐率：27.03req/s] [内存消耗：1,015.03kb] [文件加载：30]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'admin',
+    2 => 'hui',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'static' => 'h-ui.admin',
+  'js' => 'H-ui.admin.js',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:36:56+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/jquery/1.9.1/jquery.min.js
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/jquery/1.9.1/jquery.min.js [运行时间：0.021001s][吞吐率：47.62req/s] [内存消耗：1,014.83kb] [文件加载：30]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'admin',
+    2 => 'hui',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'lib' => 'jquery',
+  0 => 'jquery.min.js',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:36:56+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/layer/2.1/layer.js
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/layer/2.1/layer.js [运行时间：0.021001s][吞吐率：47.62req/s] [内存消耗：1,014.86kb] [文件加载：30]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'admin',
+    2 => 'hui',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'lib' => 'layer',
+  0 => 'layer.js',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:36:56+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/My97DatePicker/WdatePicker.js
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/My97DatePicker/WdatePicker.js [运行时间：0.020002s][吞吐率：50.00req/s] [内存消耗：1,014.78kb] [文件加载：30]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'admin',
+    2 => 'hui',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'lib' => 'My97DatePicker',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:36:56+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/jquery.validation/1.14.0/jquery.validate.min.js
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/jquery.validation/1.14.0/jquery.validate.min.js [运行时间：0.016001s][吞吐率：62.50req/s] [内存消耗：1,015.04kb] [文件加载：30]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'admin',
+    2 => 'hui',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'lib' => 'jquery.validation',
+  0 => 'jquery.validate.min.js',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:36:56+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/jquery.validation/1.14.0/validate-methods.js
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/jquery.validation/1.14.0/validate-methods.js [运行时间：0.019001s][吞吐率：52.63req/s] [内存消耗：1,015.00kb] [文件加载：30]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'admin',
+    2 => 'hui',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'lib' => 'jquery.validation',
+  0 => 'validate-methods.js',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:36:56+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/jquery.validation/1.14.0/messages_zh.min.js
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/jquery.validation/1.14.0/messages_zh.min.js [运行时间：0.018001s][吞吐率：55.55req/s] [内存消耗：1,014.98kb] [文件加载：30]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'admin',
+    2 => 'hui',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'lib' => 'jquery.validation',
+  0 => 'messages_zh.min.js',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:36:56+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/static/h-ui/js/H-ui.js
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/static/h-ui/js/H-ui.js [运行时间：0.018001s][吞吐率：55.55req/s] [内存消耗：1,014.84kb] [文件加载：30]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'admin',
+    2 => 'hui',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'static' => 'h-ui',
+  'js' => 'H-ui.js',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:36:56+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/static/h-ui.admin/js/H-ui.admin.js
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/static/h-ui.admin/js/H-ui.admin.js [运行时间：0.017001s][吞吐率：58.82req/s] [内存消耗：1,015.03kb] [文件加载：30]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'admin',
+    2 => 'hui',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'static' => 'h-ui.admin',
+  'js' => 'H-ui.admin.js',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:37:52+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin [运行时间：0.031002s][吞吐率：32.26req/s] [内存消耗：1,264.05kb] [文件加载：37]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\public/../application/admin\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:37:52+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/Hui-iconfont/1.0.7/iconfont.css
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/Hui-iconfont/1.0.7/iconfont.css [运行时间：0.024002s][吞吐率：41.66req/s] [内存消耗：1,015.01kb] [文件加载：30]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'admin',
+    2 => 'hui',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'lib' => 'Hui-iconfont',
+  0 => 'iconfont.css',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:37:52+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/icheck/icheck.css
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/icheck/icheck.css [运行时间：0.052003s][吞吐率：19.23req/s] [内存消耗：1,014.70kb] [文件加载：30]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'admin',
+    2 => 'hui',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'lib' => 'icheck',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:37:52+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/layer/2.1/layer.js
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/layer/2.1/layer.js [运行时间：0.044003s][吞吐率：22.73req/s] [内存消耗：1,014.86kb] [文件加载：30]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'admin',
+    2 => 'hui',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'lib' => 'layer',
+  0 => 'layer.js',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:37:52+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/My97DatePicker/WdatePicker.js
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/My97DatePicker/WdatePicker.js [运行时间：0.036002s][吞吐率：27.78req/s] [内存消耗：1,014.78kb] [文件加载：30]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'admin',
+    2 => 'hui',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'lib' => 'My97DatePicker',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:37:52+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/jquery.validation/1.14.0/jquery.validate.min.js
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/jquery.validation/1.14.0/jquery.validate.min.js [运行时间：0.037002s][吞吐率：27.03req/s] [内存消耗：1,015.04kb] [文件加载：30]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'admin',
+    2 => 'hui',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'lib' => 'jquery.validation',
+  0 => 'jquery.validate.min.js',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:37:52+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/jquery.validation/1.14.0/messages_zh.min.js
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/jquery.validation/1.14.0/messages_zh.min.js [运行时间：0.032002s][吞吐率：31.25req/s] [内存消耗：1,014.98kb] [文件加载：30]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'admin',
+    2 => 'hui',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'lib' => 'jquery.validation',
+  0 => 'messages_zh.min.js',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:37:52+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/layer/2.1/layer.js
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/layer/2.1/layer.js [运行时间：0.030002s][吞吐率：33.33req/s] [内存消耗：1,014.86kb] [文件加载：30]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'admin',
+    2 => 'hui',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'lib' => 'layer',
+  0 => 'layer.js',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:37:52+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/My97DatePicker/WdatePicker.js
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/My97DatePicker/WdatePicker.js [运行时间：0.034002s][吞吐率：29.41req/s] [内存消耗：1,014.78kb] [文件加载：30]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'admin',
+    2 => 'hui',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'lib' => 'My97DatePicker',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:37:52+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/jquery.validation/1.14.0/jquery.validate.min.js
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/jquery.validation/1.14.0/jquery.validate.min.js [运行时间：0.024001s][吞吐率：41.66req/s] [内存消耗：1,015.04kb] [文件加载：30]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'admin',
+    2 => 'hui',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'lib' => 'jquery.validation',
+  0 => 'jquery.validate.min.js',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:37:52+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/jquery.validation/1.14.0/messages_zh.min.js
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/jquery.validation/1.14.0/messages_zh.min.js [运行时间：0.017001s][吞吐率：58.82req/s] [内存消耗：1,014.98kb] [文件加载：30]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'admin',
+    2 => 'hui',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'lib' => 'jquery.validation',
+  0 => 'messages_zh.min.js',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:38:04+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/Hui-iconfont/1.0.7/iconfont.css
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/Hui-iconfont/1.0.7/iconfont.css [运行时间：0.026001s][吞吐率：38.46req/s] [内存消耗：1,015.01kb] [文件加载：30]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'admin',
+    2 => 'hui',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'lib' => 'Hui-iconfont',
+  0 => 'iconfont.css',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:38:04+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/icheck/icheck.css
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/icheck/icheck.css [运行时间：0.030002s][吞吐率：33.33req/s] [内存消耗：1,014.70kb] [文件加载：30]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'admin',
+    2 => 'hui',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'lib' => 'icheck',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:41:50+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin [运行时间：0.033001s][吞吐率：30.30req/s] [内存消耗：1,412.20kb] [文件加载：39]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\public/../application/admin\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:41:50+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/icheck/icheck.css
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/icheck/icheck.css [运行时间：0.026001s][吞吐率：38.46req/s] [内存消耗：1,014.70kb] [文件加载：30]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'admin',
+    2 => 'hui',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => 'text/css,*/*;q=0.1',
+  'referer' => 'http://127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'lib' => 'icheck',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:41:50+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/My97DatePicker/WdatePicker.js
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/My97DatePicker/WdatePicker.js [运行时间：0.048002s][吞吐率：20.83req/s] [内存消耗：1,014.78kb] [文件加载：30]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'admin',
+    2 => 'hui',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'lib' => 'My97DatePicker',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:41:50+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/jquery.validation/1.14.0/messages_zh.min.js
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/jquery.validation/1.14.0/messages_zh.min.js [运行时间：0.042003s][吞吐率：23.81req/s] [内存消耗：1,014.98kb] [文件加载：30]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'admin',
+    2 => 'hui',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'lib' => 'jquery.validation',
+  0 => 'messages_zh.min.js',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:41:50+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/jquery.validation/1.14.0/jquery.validate.min.js
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/jquery.validation/1.14.0/jquery.validate.min.js [运行时间：0.045003s][吞吐率：22.22req/s] [内存消耗：1,015.04kb] [文件加载：30]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'admin',
+    2 => 'hui',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'lib' => 'jquery.validation',
+  0 => 'jquery.validate.min.js',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:41:51+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/My97DatePicker/WdatePicker.js
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/My97DatePicker/WdatePicker.js [运行时间：0.040003s][吞吐率：25.00req/s] [内存消耗：1,014.78kb] [文件加载：30]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'admin',
+    2 => 'hui',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'lib' => 'My97DatePicker',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:41:51+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/jquery.validation/1.14.0/jquery.validate.min.js
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/jquery.validation/1.14.0/jquery.validate.min.js [运行时间：0.050003s][吞吐率：20.00req/s] [内存消耗：1,015.04kb] [文件加载：30]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'admin',
+    2 => 'hui',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'lib' => 'jquery.validation',
+  0 => 'jquery.validate.min.js',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:41:51+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/jquery.validation/1.14.0/messages_zh.min.js
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/static/admin/hui/lib/jquery.validation/1.14.0/messages_zh.min.js [运行时间：0.022002s][吞吐率：45.45req/s] [内存消耗：1,014.98kb] [文件加载：30]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'admin',
+    2 => 'hui',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => '*/*',
+  'referer' => 'http://127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'lib' => 'jquery.validation',
+  0 => 'messages_zh.min.js',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:48:48+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin [运行时间：0.036002s][吞吐率：27.78req/s] [内存消耗：1,264.05kb] [文件加载：37]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\public/../application/admin\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:48:50+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin [运行时间：0.027002s][吞吐率：37.03req/s] [内存消耗：1,264.05kb] [文件加载：37]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\public/../application/admin\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:49:46+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin [运行时间：0.030002s][吞吐率：33.33req/s] [内存消耗：1,473.01kb] [文件加载：40]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\public/../application/admin\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:50:07+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin [运行时间：0.030002s][吞吐率：33.33req/s] [内存消耗：1,323.91kb] [文件加载：38]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\public/../application/admin\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:51:52+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin [运行时间：0.034002s][吞吐率：29.41req/s] [内存消耗：1,516.49kb] [文件加载：44]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\public/../application/admin\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]Use of undefined constant index - assumed 'index'[D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\runtime\temp\bed13ab06ef35faf39dca7a17083f07f.php:151]
+---------------------------------------------------------------
+[ 2017-05-08T10:52:04+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin [运行时间：0.040002s][吞吐率：25.00req/s] [内存消耗：1,516.52kb] [文件加载：44]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\public/../application/admin\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]Use of undefined constant Index - assumed 'Index'[D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\runtime\temp\bed13ab06ef35faf39dca7a17083f07f.php:151]
+---------------------------------------------------------------
+[ 2017-05-08T10:53:16+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin [运行时间：0.037002s][吞吐率：27.03req/s] [内存消耗：1,473.43kb] [文件加载：40]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\public/../application/admin\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:53:16+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/index.php/admin/index/welcome.html
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php/admin/index/welcome.html [运行时间：0.036002s][吞吐率：27.78req/s] [内存消耗：1,259.79kb] [文件加载：36]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'welcome',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->welcome[ D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:53:28+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin [运行时间：0.039002s][吞吐率：25.64req/s] [内存消耗：1,324.25kb] [文件加载：38]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\public/../application/admin\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-05-08T10:53:28+08:00 ] 127.0.0.1 127.0.0.1 GET /ImoocNuomi/NuoMiImooc/project/public/index.php/admin/index/welcome.html
+[ info ] 127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php/admin/index/welcome.html [运行时间：0.040002s][吞吐率：25.00req/s] [内存消耗：1,259.79kb] [文件加载：36]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'welcome',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'referer' => 'http://127.0.0.1/ImoocNuomi/NuoMiImooc/project/public/index.php?s=admin',
+  'accept-encoding' => 'gzip, deflate, sdch, br',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->welcome[ D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
