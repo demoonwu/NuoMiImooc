@@ -142,7 +142,7 @@ return [
 
     // 视图输出字符串内容替换
     'view_replace_str'       => [
-        '__STATIC__'=>'http://wuyongwei.com/static',//绑定默认的入口文件
+        '__STATIC__'=>'http://nunu.com/static',//绑定默认的入口文件
 
     ],
     // 默认跳转页面对应的模板文件

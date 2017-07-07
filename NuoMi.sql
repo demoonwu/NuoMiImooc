@@ -187,4 +187,4 @@ CREATE TABLE IF NOT EXISTS `o2o_featured`(
 )ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8;
 
 
-#导入路径 SOURCE D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\NuoMi.sql
+#导入路径 SOURCE D:\xampp\htdocs\ImoocNuomi\Nunu\NuoMi.sql

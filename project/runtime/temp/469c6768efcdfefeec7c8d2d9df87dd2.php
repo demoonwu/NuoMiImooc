@@ -1,4 +1,4 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:4:{s:95:"D:\xampp\htdocs\ImoocNuomi\Nunu\project\public/../application/admin\view\index\index.html";i:1494211993;s:97:"D:\xampp\htdocs\ImoocNuomi\Nunu\project\public/../application/admin\view\public\header.html";i:1486396326;s:95:"D:\xampp\htdocs\ImoocNuomi\Nunu\project\public/../application/admin\view\public\menu.html";i:1488415954;s:97:"D:\xampp\htdocs\ImoocNuomi\Nunu\project\public/../application/admin\view\public\footer.html";i:1486396310;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:4:{s:89:"D:\xampp\htdocs\ImoocNuomi\Nunu\project\public/../application/admin\view\index\index.html";i:1494211993;s:91:"D:\xampp\htdocs\ImoocNuomi\Nunu\project\public/../application/admin\view\public\header.html";i:1486396326;s:89:"D:\xampp\htdocs\ImoocNuomi\Nunu\project\public/../application/admin\view\public\menu.html";i:1488415954;s:91:"D:\xampp\htdocs\ImoocNuomi\Nunu\project\public/../application/admin\view\public\footer.html";i:1486396310;}*/ ?>
 ﻿<!--包含头部文件-->
 <!DOCTYPE HTML>
 <html>

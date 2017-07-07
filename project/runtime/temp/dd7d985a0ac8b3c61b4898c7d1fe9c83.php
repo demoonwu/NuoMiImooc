@@ -1,4 +1,4 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:1:{s:97:"D:\xampp\htdocs\ImoocNuomi\NuoMiImooc\project\public/../application/index\view\user\register.html";i:1494163126;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:1:{s:97:"D:\xampp\htdocs\ImoocNuomi\Nunu\project\public/../application/index\view\user\register.html";i:1494163126;}*/ ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>

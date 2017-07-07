@@ -1,4 +1,4 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:3:{s:95:"D:\xampp\htdocs\ImoocNuomi\Nunu\project\public/../application/index\view\index\index.html";i:1494162582;s:95:"D:\xampp\htdocs\ImoocNuomi\Nunu\project\public/../application/index\view\public\head.html";i:1494163538;s:94:"D:\xampp\htdocs\ImoocNuomi\Nunu\project\public/../application/index\view\public\nav.html";i:1494162497;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:3:{s:89:"D:\xampp\htdocs\ImoocNuomi\Nunu\project\public/../application/index\view\index\index.html";i:1494162582;s:89:"D:\xampp\htdocs\ImoocNuomi\Nunu\project\public/../application/index\view\public\head.html";i:1494163538;s:88:"D:\xampp\htdocs\ImoocNuomi\Nunu\project\public/../application/index\view\public\nav.html";i:1494162497;}*/ ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
