@@ -1,0 +1,1535 @@
+---------------------------------------------------------------
+[ 2017-07-08T16:34:03+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ info ] nunu.com/ [运行时间：0.055003s][吞吐率：18.18req/s] [内存消耗：1,529.77kb] [文件加载：37]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'nunu.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ D:\xampp\htdocs\ImoocNuomi\Nunu\project\application\index\controller\Index.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\public/../application/index\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-08T16:36:03+08:00 ] 127.0.0.1 127.0.0.1 GET /category
+[ info ] nunu.com/category [运行时间：0.034002s][吞吐率：29.41req/s] [内存消耗：1,164.86kb] [文件加载：30]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'category',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'nunu.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-08T16:36:09+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/category
+[ info ] nunu.com/admin/category [运行时间：0.041003s][吞吐率：24.39req/s] [内存消耗：1,608.38kb] [文件加载：39]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'category',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'nunu.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Category->index[ D:\xampp\htdocs\ImoocNuomi\Nunu\project\application\admin\controller\Category.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\public/../application/admin\view\category\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-08T16:36:13+08:00 ] 127.0.0.1 127.0.0.1 GET /admin
+[ info ] nunu.com/admin [运行时间：0.034002s][吞吐率：29.41req/s] [内存消耗：1,516.90kb] [文件加载：38]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'nunu.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ D:\xampp\htdocs\ImoocNuomi\Nunu\project\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\public/../application/admin\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-08T16:36:13+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/index/welcome.html
+[ info ] nunu.com/admin/index/welcome.html [运行时间：0.034002s][吞吐率：29.41req/s] [内存消耗：1,444.48kb] [文件加载：36]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'welcome',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'nunu.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://nunu.com/admin',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->welcome[ D:\xampp\htdocs\ImoocNuomi\Nunu\project\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-08T16:36:15+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/category/index.html
+[ info ] nunu.com/admin/category/index.html [运行时间：0.042003s][吞吐率：23.81req/s] [内存消耗：1,446.07kb] [文件加载：37]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'category',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'nunu.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://nunu.com/admin',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Category->index[ D:\xampp\htdocs\ImoocNuomi\Nunu\project\application\admin\controller\Category.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\public/../application/admin\view\category\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-08T16:37:17+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/category/index.html
+[ info ] nunu.com/admin/category/index.html [运行时间：0.038002s][吞吐率：26.31req/s] [内存消耗：1,446.11kb] [文件加载：37]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'category',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'nunu.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://nunu.com/admin/category/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Category->index[ D:\xampp\htdocs\ImoocNuomi\Nunu\project\application\admin\controller\Category.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\public/../application/admin\view\category\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-08T16:37:19+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/category/404.html
+[ info ] nunu.com/admin/category/404.html [运行时间：0.042002s][吞吐率：23.81req/s] [内存消耗：1,489.20kb] [文件加载：39]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'category',
+    2 => '404',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'nunu.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://nunu.com/admin/category/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-08T16:42:09+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/category/index.html
+[ info ] nunu.com/admin/category/index.html [运行时间：0.047003s][吞吐率：21.28req/s] [内存消耗：1,608.77kb] [文件加载：39]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'category',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'nunu.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://nunu.com/admin',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Category->index[ D:\xampp\htdocs\ImoocNuomi\Nunu\project\application\admin\controller\Category.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\public/../application/admin\view\category\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-08T16:42:10+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/category/index.html
+[ info ] nunu.com/admin/category/index.html [运行时间：0.031002s][吞吐率：32.26req/s] [内存消耗：1,446.04kb] [文件加载：37]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'category',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'nunu.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://nunu.com/admin',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Category->index[ D:\xampp\htdocs\ImoocNuomi\Nunu\project\application\admin\controller\Category.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\public/../application/admin\view\category\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-08T16:42:32+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/featured/add.html
+[ info ] nunu.com/admin/featured/add.html [运行时间：0.041003s][吞吐率：24.39req/s] [内存消耗：1,166.32kb] [文件加载：32]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'featured',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'nunu.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://nunu.com/admin',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-08T16:42:34+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/category/index.html
+[ info ] nunu.com/admin/category/index.html [运行时间：0.034002s][吞吐率：29.41req/s] [内存消耗：1,446.04kb] [文件加载：37]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'category',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'nunu.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://nunu.com/admin',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Category->index[ D:\xampp\htdocs\ImoocNuomi\Nunu\project\application\admin\controller\Category.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\public/../application/admin\view\category\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-08T16:45:10+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/category/index.html
+[ info ] nunu.com/admin/category/index.html [运行时间：0.032002s][吞吐率：31.25req/s] [内存消耗：1,446.04kb] [文件加载：37]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'category',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'nunu.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://nunu.com/admin',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Category->index[ D:\xampp\htdocs\ImoocNuomi\Nunu\project\application\admin\controller\Category.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\public/../application/admin\view\category\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-08T16:57:18+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/category/404.html
+[ info ] nunu.com/admin/category/404.html [运行时间：0.057003s][吞吐率：17.54req/s] [内存消耗：1,489.20kb] [文件加载：39]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'category',
+    2 => '404',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'nunu.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://nunu.com/admin/category/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-08T16:59:55+08:00 ] 127.0.0.1 127.0.0.1 GET /admin
+[ info ] nunu.com/admin [运行时间：0.039003s][吞吐率：25.64req/s] [内存消耗：1,517.10kb] [文件加载：38]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'nunu.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ D:\xampp\htdocs\ImoocNuomi\Nunu\project\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\public/../application/admin\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-08T16:59:55+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/index/welcome.html
+[ info ] nunu.com/admin/index/welcome.html [运行时间：0.041002s][吞吐率：24.39req/s] [内存消耗：1,444.48kb] [文件加载：36]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'welcome',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'nunu.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://nunu.com/admin',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->welcome[ D:\xampp\htdocs\ImoocNuomi\Nunu\project\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-08T16:59:58+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/category/index.html
+[ info ] nunu.com/admin/category/index.html [运行时间：0.047003s][吞吐率：21.28req/s] [内存消耗：1,681.14kb] [文件加载：40]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'category',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'nunu.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://nunu.com/admin',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Category->index[ D:\xampp\htdocs\ImoocNuomi\Nunu\project\application\admin\controller\Category.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\public/../application/admin\view\category\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-08T16:59:59+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/category/add.html.html
+[ info ] nunu.com/admin/category/add.html.html [运行时间：0.041002s][吞吐率：24.39req/s] [内存消耗：1,489.21kb] [文件加载：39]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'category',
+    2 => 'add.html',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'nunu.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://nunu.com/admin/category/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-08T17:00:19+08:00 ] 127.0.0.1 127.0.0.1 GET /admin
+[ info ] nunu.com/admin [运行时间：0.044002s][吞吐率：22.73req/s] [内存消耗：1,517.10kb] [文件加载：38]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'nunu.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ D:\xampp\htdocs\ImoocNuomi\Nunu\project\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\public/../application/admin\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-08T17:00:19+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/index/welcome.html
+[ info ] nunu.com/admin/index/welcome.html [运行时间：0.045003s][吞吐率：22.22req/s] [内存消耗：1,444.48kb] [文件加载：36]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'welcome',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'nunu.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://nunu.com/admin',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->welcome[ D:\xampp\htdocs\ImoocNuomi\Nunu\project\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-08T17:00:21+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/category/index.html
+[ info ] nunu.com/admin/category/index.html [运行时间：0.050003s][吞吐率：20.00req/s] [内存消耗：1,681.06kb] [文件加载：40]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'category',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'nunu.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://nunu.com/admin',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Category->index[ D:\xampp\htdocs\ImoocNuomi\Nunu\project\application\admin\controller\Category.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\public/../application/admin\view\category\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-08T17:00:21+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/category/add.html
+[ info ] nunu.com/admin/category/add.html [运行时间：0.055003s][吞吐率：18.18req/s] [内存消耗：1,489.20kb] [文件加载：39]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'category',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'nunu.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://nunu.com/admin/category/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-08T17:00:59+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/category/add.html
+[ info ] nunu.com/admin/category/add.html [运行时间：0.034001s][吞吐率：29.41req/s] [内存消耗：1,607.36kb] [文件加载：39]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'category',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'nunu.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://nunu.com/admin/category/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Category->add[ D:\xampp\htdocs\ImoocNuomi\Nunu\project\application\admin\controller\Category.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\public/../application/admin\view\category\add.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-08T17:01:03+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/category/add.html
+[ info ] nunu.com/admin/category/add.html [运行时间：0.051003s][吞吐率：19.61req/s] [内存消耗：1,446.73kb] [文件加载：37]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'category',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'nunu.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://nunu.com/admin/category/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Category->add[ D:\xampp\htdocs\ImoocNuomi\Nunu\project\application\admin\controller\Category.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\public/../application/admin\view\category\add.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-08T17:04:19+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/category/add.html
+[ info ] nunu.com/admin/category/add.html [运行时间：0.055003s][吞吐率：18.18req/s] [内存消耗：1,447.23kb] [文件加载：37]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'category',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'nunu.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://nunu.com/admin/category/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Category->add[ D:\xampp\htdocs\ImoocNuomi\Nunu\project\application\admin\controller\Category.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\public/../application/admin\view\category\add.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-08T17:04:20+08:00 ] 127.0.0.1 127.0.0.1 POST /admin/category/add.html
+[ info ] nunu.com/admin/category/add.html [运行时间：0.031001s][吞吐率：32.26req/s] [内存消耗：1,448.03kb] [文件加载：37]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'category',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'nunu.com',
+  'connection' => 'keep-alive',
+  'content-length' => '17',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://nunu.com',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://nunu.com/admin/category/add.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'name' => '',
+  'parent_id' => '0',
+)
+[ info ] [ RUN ] app\admin\controller\Category->add[ D:\xampp\htdocs\ImoocNuomi\Nunu\project\application\admin\controller\Category.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\public/../application/admin\view\category\add.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-08T17:04:20+08:00 ] 127.0.0.1 127.0.0.1 POST /admin/category/add.html
+[ info ] nunu.com/admin/category/add.html [运行时间：0.030001s][吞吐率：33.33req/s] [内存消耗：1,447.98kb] [文件加载：37]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'category',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'nunu.com',
+  'connection' => 'keep-alive',
+  'content-length' => '17',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://nunu.com',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://nunu.com/admin/category/add.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'name' => '',
+  'parent_id' => '0',
+)
+[ info ] [ RUN ] app\admin\controller\Category->add[ D:\xampp\htdocs\ImoocNuomi\Nunu\project\application\admin\controller\Category.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\public/../application/admin\view\category\add.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-08T17:04:21+08:00 ] 127.0.0.1 127.0.0.1 POST /admin/category/add.html
+[ info ] nunu.com/admin/category/add.html [运行时间：0.032002s][吞吐率：31.25req/s] [内存消耗：1,447.98kb] [文件加载：37]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'category',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'nunu.com',
+  'connection' => 'keep-alive',
+  'content-length' => '17',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://nunu.com',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://nunu.com/admin/category/add.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'name' => '',
+  'parent_id' => '0',
+)
+[ info ] [ RUN ] app\admin\controller\Category->add[ D:\xampp\htdocs\ImoocNuomi\Nunu\project\application\admin\controller\Category.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\public/../application/admin\view\category\add.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-08T17:04:21+08:00 ] 127.0.0.1 127.0.0.1 POST /admin/category/add.html
+[ info ] nunu.com/admin/category/add.html [运行时间：0.031002s][吞吐率：32.26req/s] [内存消耗：1,447.98kb] [文件加载：37]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'category',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'nunu.com',
+  'connection' => 'keep-alive',
+  'content-length' => '17',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://nunu.com',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://nunu.com/admin/category/add.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'name' => '',
+  'parent_id' => '0',
+)
+[ info ] [ RUN ] app\admin\controller\Category->add[ D:\xampp\htdocs\ImoocNuomi\Nunu\project\application\admin\controller\Category.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\public/../application/admin\view\category\add.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-08T17:04:34+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/category/add.html
+[ info ] nunu.com/admin/category/add.html [运行时间：0.058003s][吞吐率：17.24req/s] [内存消耗：1,447.23kb] [文件加载：37]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'category',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'nunu.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://nunu.com/admin/category/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Category->add[ D:\xampp\htdocs\ImoocNuomi\Nunu\project\application\admin\controller\Category.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\public/../application/admin\view\category\add.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-08T17:04:35+08:00 ] 127.0.0.1 127.0.0.1 POST /admin/category/add.html
+[ info ] nunu.com/admin/category/add.html [运行时间：0.034002s][吞吐率：29.41req/s] [内存消耗：1,447.98kb] [文件加载：37]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'category',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'nunu.com',
+  'connection' => 'keep-alive',
+  'content-length' => '17',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://nunu.com',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://nunu.com/admin/category/add.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'name' => '',
+  'parent_id' => '0',
+)
+[ info ] [ RUN ] app\admin\controller\Category->add[ D:\xampp\htdocs\ImoocNuomi\Nunu\project\application\admin\controller\Category.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\public/../application/admin\view\category\add.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-08T17:04:36+08:00 ] 127.0.0.1 127.0.0.1 POST /admin/category/add.html
+[ info ] nunu.com/admin/category/add.html [运行时间：0.031001s][吞吐率：32.26req/s] [内存消耗：1,447.98kb] [文件加载：37]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'category',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'nunu.com',
+  'connection' => 'keep-alive',
+  'content-length' => '17',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://nunu.com',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://nunu.com/admin/category/add.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'name' => '',
+  'parent_id' => '0',
+)
+[ info ] [ RUN ] app\admin\controller\Category->add[ D:\xampp\htdocs\ImoocNuomi\Nunu\project\application\admin\controller\Category.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\public/../application/admin\view\category\add.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-08T17:04:36+08:00 ] 127.0.0.1 127.0.0.1 POST /admin/category/add.html
+[ info ] nunu.com/admin/category/add.html [运行时间：0.031001s][吞吐率：32.26req/s] [内存消耗：1,447.98kb] [文件加载：37]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'category',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'nunu.com',
+  'connection' => 'keep-alive',
+  'content-length' => '17',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://nunu.com',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://nunu.com/admin/category/add.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'name' => '',
+  'parent_id' => '0',
+)
+[ info ] [ RUN ] app\admin\controller\Category->add[ D:\xampp\htdocs\ImoocNuomi\Nunu\project\application\admin\controller\Category.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\public/../application/admin\view\category\add.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-08T17:04:37+08:00 ] 127.0.0.1 127.0.0.1 POST /admin/category/add.html
+[ info ] nunu.com/admin/category/add.html [运行时间：0.035002s][吞吐率：28.57req/s] [内存消耗：1,447.98kb] [文件加载：37]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'category',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'nunu.com',
+  'connection' => 'keep-alive',
+  'content-length' => '17',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://nunu.com',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://nunu.com/admin/category/add.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'name' => '',
+  'parent_id' => '0',
+)
+[ info ] [ RUN ] app\admin\controller\Category->add[ D:\xampp\htdocs\ImoocNuomi\Nunu\project\application\admin\controller\Category.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\public/../application/admin\view\category\add.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-08T17:04:37+08:00 ] 127.0.0.1 127.0.0.1 POST /admin/category/add.html
+[ info ] nunu.com/admin/category/add.html [运行时间：0.038002s][吞吐率：26.31req/s] [内存消耗：1,447.98kb] [文件加载：37]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'category',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'nunu.com',
+  'connection' => 'keep-alive',
+  'content-length' => '17',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://nunu.com',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://nunu.com/admin/category/add.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'name' => '',
+  'parent_id' => '0',
+)
+[ info ] [ RUN ] app\admin\controller\Category->add[ D:\xampp\htdocs\ImoocNuomi\Nunu\project\application\admin\controller\Category.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\public/../application/admin\view\category\add.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-08T17:05:47+08:00 ] 127.0.0.1 127.0.0.1 POST /admin/category/add.html
+[ info ] nunu.com/admin/category/add.html [运行时间：0.043003s][吞吐率：23.25req/s] [内存消耗：1,679.72kb] [文件加载：40]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'category',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'nunu.com',
+  'connection' => 'keep-alive',
+  'content-length' => '17',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://nunu.com',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://nunu.com/admin/category/add.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'name' => '',
+  'parent_id' => '0',
+)
+[ info ] [ RUN ] app\admin\controller\Category->add[ D:\xampp\htdocs\ImoocNuomi\Nunu\project\application\admin\controller\Category.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\public/../application/admin\view\category\add.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-08T17:05:49+08:00 ] 127.0.0.1 127.0.0.1 GET /admin
+[ info ] nunu.com/admin [运行时间：0.033002s][吞吐率：30.30req/s] [内存消耗：1,517.10kb] [文件加载：38]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'nunu.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ D:\xampp\htdocs\ImoocNuomi\Nunu\project\application\admin\controller\Index.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\public/../application/admin\view\index\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-08T17:05:49+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/index/welcome.html
+[ info ] nunu.com/admin/index/welcome.html [运行时间：0.026002s][吞吐率：38.46req/s] [内存消耗：1,444.48kb] [文件加载：36]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'welcome',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'nunu.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://nunu.com/admin',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->welcome[ D:\xampp\htdocs\ImoocNuomi\Nunu\project\application\admin\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-08T17:05:51+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/category/index.html
+[ info ] nunu.com/admin/category/index.html [运行时间：0.038002s][吞吐率：26.31req/s] [内存消耗：1,517.95kb] [文件加载：38]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'category',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'nunu.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://nunu.com/admin',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Category->index[ D:\xampp\htdocs\ImoocNuomi\Nunu\project\application\admin\controller\Category.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\public/../application/admin\view\category\index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-08T17:05:52+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/category/add.html
+[ info ] nunu.com/admin/category/add.html [运行时间：0.033002s][吞吐率：30.30req/s] [内存消耗：1,518.05kb] [文件加载：38]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'category',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'nunu.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://nunu.com/admin/category/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Category->add[ D:\xampp\htdocs\ImoocNuomi\Nunu\project\application\admin\controller\Category.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\public/../application/admin\view\category\add.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-08T17:05:53+08:00 ] 127.0.0.1 127.0.0.1 POST /admin/category/save.html
+[ info ] nunu.com/admin/category/save.html [运行时间：0.027001s][吞吐率：37.04req/s] [内存消耗：1,446.12kb] [文件加载：36]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'category',
+    2 => 'save',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'nunu.com',
+  'connection' => 'keep-alive',
+  'content-length' => '17',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://nunu.com',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://nunu.com/admin/category/add.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'name' => '',
+  'parent_id' => '0',
+)
+[ info ] [ RUN ] app\admin\controller\Category->save[ D:\xampp\htdocs\ImoocNuomi\Nunu\project\application\admin\controller\Category.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-08T17:07:13+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/category/add.html
+[ info ] nunu.com/admin/category/add.html [运行时间：0.071004s][吞吐率：14.08req/s] [内存消耗：1,518.59kb] [文件加载：38]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'category',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'nunu.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://nunu.com/admin/category/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Category->add[ D:\xampp\htdocs\ImoocNuomi\Nunu\project\application\admin\controller\Category.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\public/../application/admin\view\category\add.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-08T17:07:14+08:00 ] 127.0.0.1 127.0.0.1 POST /admin/category/save.html
+[ info ] nunu.com/admin/category/save.html [运行时间：0.033002s][吞吐率：30.30req/s] [内存消耗：1,457.28kb] [文件加载：37]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'category',
+    2 => 'save',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'nunu.com',
+  'connection' => 'keep-alive',
+  'content-length' => '17',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://nunu.com',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://nunu.com/admin/category/add.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'name' => '',
+  'parent_id' => '0',
+)
+[ info ] [ RUN ] app\admin\controller\Category->save[ D:\xampp\htdocs\ImoocNuomi\Nunu\project\application\admin\controller\Category.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-08T17:07:19+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/category/add.html
+[ info ] nunu.com/admin/category/add.html [运行时间：0.052003s][吞吐率：19.23req/s] [内存消耗：1,518.59kb] [文件加载：38]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'category',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'nunu.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://nunu.com/admin/category/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Category->add[ D:\xampp\htdocs\ImoocNuomi\Nunu\project\application\admin\controller\Category.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\public/../application/admin\view\category\add.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-08T17:07:21+08:00 ] 127.0.0.1 127.0.0.1 POST /admin/category/save.html
+[ info ] nunu.com/admin/category/save.html [运行时间：0.031002s][吞吐率：32.26req/s] [内存消耗：1,457.27kb] [文件加载：37]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'category',
+    2 => 'save',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'nunu.com',
+  'connection' => 'keep-alive',
+  'content-length' => '20',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://nunu.com',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://nunu.com/admin/category/add.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'asd',
+  'parent_id' => '0',
+)
+[ info ] [ RUN ] app\admin\controller\Category->save[ D:\xampp\htdocs\ImoocNuomi\Nunu\project\application\admin\controller\Category.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-08T17:07:24+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/category/add.html
+[ info ] nunu.com/admin/category/add.html [运行时间：0.046002s][吞吐率：21.74req/s] [内存消耗：1,518.59kb] [文件加载：38]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'category',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'nunu.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://nunu.com/admin/category/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Category->add[ D:\xampp\htdocs\ImoocNuomi\Nunu\project\application\admin\controller\Category.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\public/../application/admin\view\category\add.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-08T17:07:28+08:00 ] 127.0.0.1 127.0.0.1 POST /admin/category/save.html
+[ info ] nunu.com/admin/category/save.html [运行时间：0.031002s][吞吐率：32.26req/s] [内存消耗：1,457.27kb] [文件加载：37]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'category',
+    2 => 'save',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'nunu.com',
+  'connection' => 'keep-alive',
+  'content-length' => '19',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://nunu.com',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://nunu.com/admin/category/add.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'asd',
+  'parent_id' => '',
+)
+[ info ] [ RUN ] app\admin\controller\Category->save[ D:\xampp\htdocs\ImoocNuomi\Nunu\project\application\admin\controller\Category.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-08T17:07:40+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/category/add.html
+[ info ] nunu.com/admin/category/add.html [运行时间：0.049003s][吞吐率：20.41req/s] [内存消耗：1,518.24kb] [文件加载：38]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'category',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'nunu.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://nunu.com/admin/category/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Category->add[ D:\xampp\htdocs\ImoocNuomi\Nunu\project\application\admin\controller\Category.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\public/../application/admin\view\category\add.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-08T17:07:42+08:00 ] 127.0.0.1 127.0.0.1 POST /admin/category/save.html
+[ info ] nunu.com/admin/category/save.html [运行时间：0.034002s][吞吐率：29.41req/s] [内存消耗：1,501.05kb] [文件加载：40]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'category',
+    2 => 'save',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'nunu.com',
+  'connection' => 'keep-alive',
+  'content-length' => '17',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://nunu.com',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://nunu.com/admin/category/add.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'name' => '',
+  'parent_id' => '0',
+)
+[ info ] [ RUN ] app\admin\controller\Category->save[ D:\xampp\htdocs\ImoocNuomi\Nunu\project\application\admin\controller\Category.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [4096]Object of class think\Request could not be converted to string[D:\xampp\htdocs\ImoocNuomi\Nunu\project\thinkphp\library\think\Response.php:319]
+---------------------------------------------------------------
+[ 2017-07-08T17:08:59+08:00 ] 127.0.0.1 127.0.0.1 GET /admin/category/add.html
+[ info ] nunu.com/admin/category/add.html [运行时间：0.057003s][吞吐率：17.54req/s] [内存消耗：1,518.79kb] [文件加载：38]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'category',
+    2 => 'add',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'nunu.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://nunu.com/admin/category/index.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Category->add[ D:\xampp\htdocs\ImoocNuomi\Nunu\project\application\admin\controller\Category.php ]
+[ info ] [ VIEW ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\public/../application/admin\view\category\add.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-07-08T17:09:01+08:00 ] 127.0.0.1 127.0.0.1 POST /admin/category/save.html
+[ info ] nunu.com/admin/category/save.html [运行时间：0.031002s][吞吐率：32.26req/s] [内存消耗：1,455.53kb] [文件加载：37]
+[ info ] [ LANG ] D:\xampp\htdocs\ImoocNuomi\Nunu\project\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'category',
+    2 => 'save',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'nunu.com',
+  'connection' => 'keep-alive',
+  'content-length' => '17',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://nunu.com',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.86 Safari/537.36',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://nunu.com/admin/category/add.html',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6,zh-TW;q=0.4',
+)
+[ info ] [ PARAM ] array (
+  'name' => '',
+  'parent_id' => '0',
+)
+[ info ] [ RUN ] app\admin\controller\Category->save[ D:\xampp\htdocs\ImoocNuomi\Nunu\project\application\admin\controller\Category.php ]
+[ info ] [ LOG ] INIT File
